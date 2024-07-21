@@ -10,7 +10,7 @@
 - 🔥 Customizable grid and gutter sizes
 - 🔥 Accessible child to parent function
 
-Example: https://github.com/renzycode/react-native-fb-photo-grid
+Example: https://github.com/renzycode/react-native-fb-photo-grid-example
 
 <p align="center">
   <img src="https://github.com/renzycode/react-native-fb-photo-grid/assets/react-native-fb-photo-grid.gif?raw=true" height="480" />
