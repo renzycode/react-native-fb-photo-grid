@@ -13,7 +13,7 @@
 Example: https://github.com/renzycode/react-native-fb-photo-grid-example
 
 <p align="center">
-  <img src="https://github.com/renzycode/react-native-fb-photo-grid/assets/react-native-fb-photo-grid.gif?raw=true" height="480" />
+  <img src="https://github.com/renzycode/react-native-fb-photo-grid/blob/main/assets/react-native-fb-photo-grid.gif?raw=true" height="480" />
 </p>
 
 ## Installation
