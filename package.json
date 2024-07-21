@@ -1,6 +1,6 @@
 {
   "name": "@renzycode/react-native-fb-photo-grid",
-  "version": "0.0.4",
+  "version": "0.1.5",
   "description": "A React Native component to display photos in a grid like Facebook's newsfeed.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -16,24 +16,6 @@
   ],
   "author": "Renzycode",
   "license": "MIT",
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-native": "^0.71.0"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
-    "@babel/preset-react": "^7.0.0",
-    "@babel/preset-typescript": "^7.0.0",
-    "eslint": "^8.0.0",
-    "jest": "^29.0.0",
-    "react-test-renderer": "^18.0.0",
-    "typescript": "^5.0.0"
-  },
-  "peerDependencies": {
-    "react": "^18.0.0",
-    "react-native": "^0.71.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/renzycode/react-native-fb-photo-grid.git"
