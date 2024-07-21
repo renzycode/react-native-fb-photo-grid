@@ -2,7 +2,6 @@
 
 > A React Native component to display photos in a grid like Facebook's newsfeed.
 
-[![npm version](https://badge.fury.io/js/%40renzycode%2Freact-native-fb-photo-grid.svg)](https://badge.fury.io/js/%40renzycode%2Freact-native-fb-photo-grid)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 - 🔥 Display photos in a Facebook-style grid
