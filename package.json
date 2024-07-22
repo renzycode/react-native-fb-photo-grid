@@ -1,6 +1,6 @@
 {
   "name": "@renzycode/react-native-fb-photo-grid",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A React Native component to display photos in a grid like Facebook's newsfeed.",
   "main": "index.js",
   "types": "index.d.ts",
